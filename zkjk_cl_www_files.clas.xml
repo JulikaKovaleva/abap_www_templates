@@ -1,0 +1,85 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_CLAS" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <VSEOCLASS>
+    <CLSNAME>ZKJK_CL_WWW_FILES</CLSNAME>
+    <VERSION>1</VERSION>
+    <LANGU>R</LANGU>
+    <DESCRIPT>Работа с шаблонами SMW0</DESCRIPT>
+    <STATE>1</STATE>
+    <CLSCCINCL>X</CLSCCINCL>
+    <FIXPT>X</FIXPT>
+    <UNICODE>X</UNICODE>
+   </VSEOCLASS>
+   <DESCRIPTIONS>
+    <SEOCOMPOTX>
+     <CLSNAME>ZKJK_CL_WWW_FILES</CLSNAME>
+     <CMPNAME>CONSTRUCTOR</CMPNAME>
+     <LANGU>R</LANGU>
+     <DESCRIPT>CONSTRUCTOR</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZKJK_CL_WWW_FILES</CLSNAME>
+     <CMPNAME>DOWNLOAD_ALL_AND_OPEN</CMPNAME>
+     <LANGU>R</LANGU>
+     <DESCRIPT>Скачать все файлы</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZKJK_CL_WWW_FILES</CLSNAME>
+     <CMPNAME>DOWNLOAD_ONE</CMPNAME>
+     <LANGU>R</LANGU>
+     <DESCRIPT>Скачать файл</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZKJK_CL_WWW_FILES</CLSNAME>
+     <CMPNAME>DOWNLOAD_ONE_AND_OPEN</CMPNAME>
+     <LANGU>R</LANGU>
+     <DESCRIPT>Скачать файл и открыть его сразу</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZKJK_CL_WWW_FILES</CLSNAME>
+     <CMPNAME>GET_FILE_DATA</CMPNAME>
+     <LANGU>R</LANGU>
+     <DESCRIPT>Выгрузить файл</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZKJK_CL_WWW_FILES</CLSNAME>
+     <CMPNAME>MC_EXTENSION</CMPNAME>
+     <LANGU>R</LANGU>
+     <DESCRIPT>Имя параметра для пар NAME, VALUE (имя-значение)</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZKJK_CL_WWW_FILES</CLSNAME>
+     <CMPNAME>MC_FILEPATH</CMPNAME>
+     <LANGU>R</LANGU>
+     <DESCRIPT>Имя параметра для пар NAME, VALUE (имя-значение)</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZKJK_CL_WWW_FILES</CLSNAME>
+     <CMPNAME>MC_FILETYPE_BIN</CMPNAME>
+     <LANGU>R</LANGU>
+     <DESCRIPT>Символьное поле длиной 10</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZKJK_CL_WWW_FILES</CLSNAME>
+     <CMPNAME>MC_RELID</CMPNAME>
+     <LANGU>R</LANGU>
+     <DESCRIPT>Область в записи IMPORT/EXPORT</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZKJK_CL_WWW_FILES</CLSNAME>
+     <CMPNAME>READ_FILES_LIST</CMPNAME>
+     <LANGU>R</LANGU>
+     <DESCRIPT>Получить список шаблонов</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZKJK_CL_WWW_FILES</CLSNAME>
+     <CMPNAME>READ_FILE_INFO</CMPNAME>
+     <LANGU>R</LANGU>
+     <DESCRIPT>Получить информацию об одном файле</DESCRIPT>
+    </SEOCOMPOTX>
+   </DESCRIPTIONS>
+  </asx:values>
+ </asx:abap>
+</abapGit>
